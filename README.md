@@ -8,11 +8,12 @@ Analista QA Automation con experiencia en automatización de pruebas, pruebas de
 
 | # | Proyecto | Tipo de prueba | Resultado | Carpeta |
 |---|---|---|---|---|
-| 1 | Pruebas de regresión: Urban Routes (Release 1.4) | Regresión manual | 11 casos ejecutados (9 aprobados, 2 fallidos) y 2 defectos de severidad Mayor | [Ver proyecto](Proyecto%201_%20Prueba%20de%20regresi%C3%B3n%20de%20Urban%20Routes/) |
+| 1 | Pruebas de regresión: Urban Routes (Release 1.4) | Regresión manual | 11 casos ejecutados (9 aprobados, 2 fallidos) y 2 defectos de severidad Mayor | [Ver proyecto](Proyecto%201%20Prueba%20de%20regresi%C3%B3n%20de%20Urban%20Routes/) |
 | 2 | Checklist de interfaz: Compartir automóvil | Checklist de UI en dos navegadores | 13 verificaciones en Chrome y Firefox, con 5 defectos reportados | [Ver proyecto](Proyecto%202%20checklist%20de%20interfaz/) |
 | 3 | Prueba técnica de automatización | API (Karate), E2E (Serenity BDD) y performance (JMeter) | Tres ejercicios automatizados con sus conclusiones: API de PetStore, compra en OpenCart y carga sobre el login de FakeStore | [Ver proyecto](Prueba%20Tecnica%20Automatizacion/) |
 | 4 | Curso Karate: automatización de API de mascotas | API REST con Karate DSL, Gradle y pruebas de autenticación (Basic y Bearer) | Features de creación, consulta, actualización y eliminación de mascotas, con autenticación; el servicio de prueba (pets-demo) va incluido | [Ver proyecto](Curso%20Karate/) |
 | 5 | Formulario de pago: Urban Routes | Pruebas de formularios y validación (partición y valores límite) | 18 casos (9 aprobados, 6 fallidos, 3 bloqueados) y 5 defectos reportados | [Ver proyecto](Proyecto%203%20Pruebas%20de%20aplicaciones%20web%20Formularios%20y%20validaci%C3%B3n/) |
+| 6 | Pruebas de APIs: Urban Grocers | Pruebas de API con Postman (positivos, negativos, partición y valores límite, autenticación) | 26 casos (19 aprobados, 7 fallidos) y 6 defectos reportados | [Ver proyecto](Proyecto%204%20Pruebas%20de%20APIs/) |
 
 ## Habilidades
 
@@ -26,7 +27,7 @@ Analista QA Automation con experiencia en automatización de pruebas, pruebas de
 
 - Automatización de pruebas API REST con Karate Framework (Udemy, 2026)
 - Test Automation usando Screenplay (Izyacademy, 2025)
-- Pruebas de rendimiento con Apache JMeter (2025)
-- Testing QA Automatizado (2024)
+- Pruebas de rendimiento con Apache JMeter (Udemy, 2025)
+- Testing QA Automatizado (Digital House, 2024)
 - Creación de historias de usuario, Agile Testing, BDD, TDD y Gherkin (Banco de Occidente, 2024)
-- Scrum Essentials (TSE), Scrum Network (2021)
+- Scrum Essentials (TSE) (Scrum Network, 2021)
