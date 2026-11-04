@@ -11,6 +11,7 @@ Analista QA Automation con experiencia en automatización de pruebas, pruebas de
 | 1 | Pruebas de regresión: Urban Routes (Release 1.4) | Regresión manual | 11 casos ejecutados (9 aprobados, 2 fallidos) y 2 defectos de severidad Mayor | [Ver proyecto](Proyecto%201_%20Prueba%20de%20regresi%C3%B3n%20de%20Urban%20Routes/) |
 | 2 | Checklist de interfaz: Compartir automóvil | Checklist de UI en dos navegadores | 13 verificaciones en Chrome y Firefox, con 5 defectos reportados | [Ver proyecto](Proyecto%202%20checklist%20de%20interfaz/) |
 | 3 | Prueba técnica de automatización | API (Karate), E2E (Serenity BDD) y performance (JMeter) | Tres ejercicios automatizados con sus conclusiones: API de PetStore, compra en OpenCart y carga sobre el login de FakeStore | [Ver proyecto](Prueba%20Tecnica%20Automatizacion/) |
+| 4 | Curso Karate: automatización de API de mascotas | API REST con Karate DSL, Gradle y pruebas de autenticación (Basic y Bearer) | Features de creación, consulta, actualización y eliminación de mascotas, con autenticación; el servicio de prueba (pets-demo) va incluido | [Ver proyecto](Curso%20Karate/) |
 
 ## Habilidades
 
