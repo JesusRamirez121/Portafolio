@@ -12,6 +12,7 @@ Analista QA Automation con experiencia en automatización de pruebas, pruebas de
 | 2 | Checklist de interfaz: Compartir automóvil | Checklist de UI en dos navegadores | 13 verificaciones en Chrome y Firefox, con 5 defectos reportados | [Ver proyecto](Proyecto%202%20checklist%20de%20interfaz/) |
 | 3 | Prueba técnica de automatización | API (Karate), E2E (Serenity BDD) y performance (JMeter) | Tres ejercicios automatizados con sus conclusiones: API de PetStore, compra en OpenCart y carga sobre el login de FakeStore | [Ver proyecto](Prueba%20Tecnica%20Automatizacion/) |
 | 4 | Curso Karate: automatización de API de mascotas | API REST con Karate DSL, Gradle y pruebas de autenticación (Basic y Bearer) | Features de creación, consulta, actualización y eliminación de mascotas, con autenticación; el servicio de prueba (pets-demo) va incluido | [Ver proyecto](Curso%20Karate/) |
+| 5 | Formulario de pago: Urban Routes | Pruebas de formularios y validación (partición y valores límite) | 18 casos (9 aprobados, 6 fallidos, 3 bloqueados) y 5 defectos reportados | [Ver proyecto](Proyecto%203%20Pruebas%20de%20aplicaciones%20web%20Formularios%20y%20validaci%C3%B3n/) |
 
 ## Habilidades
 
